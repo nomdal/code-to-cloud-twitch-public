@@ -4,7 +4,7 @@
   "description": "Calculator",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/octodemo/code-to-cloud-twitch-public.git"
+    "url": "git+https://github.com/nomdal/code-to-cloud-twitch-public.git"
   },
   "main": "index.js",
   "scripts": {
